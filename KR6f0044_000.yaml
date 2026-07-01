@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0044/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大迦葉問大寶積正法經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0352.xml
+    old_id: T12n0352
+hash: sha256:491aa3a9e75dde3b136d7b2e34c13a1ec87f4d2bd9d067202a6820003c7eccf3

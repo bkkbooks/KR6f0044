@@ -1,0 +1,112 @@
+canonical_identifier: bkk:krp/KR6f0044/v1
+canonical_location: https://kanripo.org/bkk/KR6f0044/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說大迦葉問大寶積正法經
+  identifiers:
+    alt_id:
+    - T12n0352
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0352.xml
+    old_id: T12n0352
+  edition:
+    short: bkk
+editions:
+- short: 元
+  label: 元
+  source_xml_id: wit1
+- short: 明
+  label: 明
+  source_xml_id: wit2
+- short: 宋
+  label: 宋
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0044_000.yaml, hash: 'sha256:491aa3a9e75dde3b136d7b2e34c13a1ec87f4d2bd9d067202a6820003c7eccf3'}
+  - {seq: 1, filename: KR6f0044_001.yaml, hash: 'sha256:ad2223128bf0b5626ba1cfd4a69386e5616bc3196952d88211813743f08e94f1'}
+  - {seq: 2, filename: KR6f0044_002.yaml, hash: 'sha256:e80329f98dc7cd936bf9660a41e4cc8cf2c941a706652c5935a76344d19ff748'}
+  - {seq: 3, filename: KR6f0044_003.yaml, hash: 'sha256:3d0ee7b133cb95044c044bc667dc7881e66989ce168f3c3ea940355195880d3b'}
+  - {seq: 4, filename: KR6f0044_004.yaml, hash: 'sha256:87a0e0acca0469d516968f106d31ddfd2adfe2dea902edc231319e416f8b818e'}
+  - {seq: 5, filename: KR6f0044_005.yaml, hash: 'sha256:22c592702930fbdfae76cd16a1b449e3a7ee5c8540cc41ad6ce79ffb62b583f8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6f0044_001.markers.yaml, hash: 'sha256:02b59b878bf9ee5167a6ef674e0c7b58c68139445bf8c3defae4a1b190d29c90'}
+  - {seq: 2, role: markers, filename: assets/KR6f0044_002.markers.yaml, hash: 'sha256:12fbfd86dfaa52c980a3f5ad547ecac895ac6b17e5a91eab123ac5cad93e6670'}
+  - {seq: 3, role: markers, filename: assets/KR6f0044_003.markers.yaml, hash: 'sha256:15075b7ff98d182a4bddb45e64fd9c818d95031d0b7686bf65cccf2df161c1bc'}
+  - {seq: 4, role: markers, filename: assets/KR6f0044_004.markers.yaml, hash: 'sha256:e22870e616dc9165d1451e5e37587eb1600430af72d51fe5f56b82c8f97de5b4'}
+  - {seq: 5, role: markers, filename: assets/KR6f0044_005.markers.yaml, hash: 'sha256:23820cbe446ab1650eac378a2cd50a4bdddf41705d48d808c0099b4ad8c51fe9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0044_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4023
+  label: '佛說大迦葉問大寶積正法經
+
+    卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0044_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4159
+  label: '佛說大迦葉問大寶積正法經卷
+
+    第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0044_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 4144
+  label: '佛說大迦葉問大寶積正法經卷
+
+    第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6f0044_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 3271
+  label: '佛說大迦葉問大寶積正法經
+
+    卷第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6f0044_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 2939
+  label: '佛說大迦葉問大寶積正法經卷
+
+    第五'
+  type: juan
+  level: 1
+hash: sha256:14b66c23e316dac6f1b1fc5c7cca4ff684bda7325c909400216f4e0ec560cf26
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
